@@ -15,12 +15,12 @@
 
 	<properties>
 		<!-- esbd -->
-		<esbd-dao.version>CURRENT-SNAPSHOT</esbd-dao.version>
+		<esbd-dao.version>20190126r1</esbd-dao.version>
 		<!-- insurance -->
-		<insurance-calculation.version>CURRENT-SNAPSHOT</insurance-calculation.version>
-		<insurance-facade.version>CURRENT-SNAPSHOT</insurance-facade.version>
+		<insurance-calculation.version>20190126r1</insurance-calculation.version>
+		<insurance-facade.version>20190126r1</insurance-facade.version>
 		<!-- calculator -->
-		<calculator-webapp.version>CURRENT-SNAPSHOT</calculator-webapp.version>
+		<calculator-webapp.version>20190126r1</calculator-webapp.version>
 	</properties>
 
 	<dependencies>
